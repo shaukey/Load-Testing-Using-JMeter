@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1696539103415,901,HTTP Request,200,OK,Users 1-2,text,true,,236780,125,3,3,https://www.apple.com/iphone/,677,0,648
+1696539103077,1239,HTTP Request,200,OK,Users 1-1,text,true,,236898,125,3,3,https://www.apple.com/iphone/,1027,0,983
+1696539103907,456,HTTP Request,200,OK,Users 1-3,text,true,,236898,125,1,1,https://www.apple.com/iphone/,198,0,148
+1696539104404,125,HTTP Request,200,OK,Users 1-4,text,true,,236784,125,1,1,https://www.apple.com/iphone/,68,0,45
+1696539104905,166,HTTP Request,200,OK,Users 1-5,text,true,,236784,125,1,1,https://www.apple.com/iphone/,115,0,48
+1696539105408,112,HTTP Request,200,OK,Users 1-6,text,true,,236780,125,1,1,https://www.apple.com/iphone/,63,0,43
+1696539105906,119,HTTP Request,200,OK,Users 1-7,text,true,,236780,125,1,1,https://www.apple.com/iphone/,65,0,44
+1696539106410,118,HTTP Request,200,OK,Users 1-8,text,true,,236780,125,1,1,https://www.apple.com/iphone/,62,0,43
+1696539106912,134,HTTP Request,200,OK,Users 1-9,text,true,,236784,125,1,1,https://www.apple.com/iphone/,72,0,46
+1696539107410,121,HTTP Request,200,OK,Users 1-10,text,true,,236780,125,1,1,https://www.apple.com/iphone/,73,0,54
